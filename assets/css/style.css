@@ -131,7 +131,7 @@ footer {
     }
 }
 
-/* Media query: laptops and larger (768px and up) */
+/* Media query: laptops and desktops (992px and up) */
 @media screen and (min-width: 992px) {
     /* Header */
     #menu a:hover {
